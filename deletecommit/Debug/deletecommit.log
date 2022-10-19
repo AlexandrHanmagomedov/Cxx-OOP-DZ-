@@ -1,0 +1,4 @@
+﻿  deletecommit.cpp
+C:\Users\haz\source\repos\deletecommit\Header.h(18,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\haz\source\repos\deletecommit\Header.h(20,11): warning C4018: <: несоответствие типов со знаком и без знака
+  deletecommit.vcxproj -> C:\Users\haz\source\repos\deletecommit\Debug\deletecommit.exe
