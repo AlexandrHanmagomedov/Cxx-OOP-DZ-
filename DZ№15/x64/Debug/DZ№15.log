@@ -1,0 +1,16 @@
+﻿  DZ№15.cpp
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(10,2): error C3861: push: идентификатор не найден
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(11,2): error C3861: push: идентификатор не найден
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(12,2): error C3861: push: идентификатор не найден
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(13,2): error C3861: print: идентификатор не найден
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(14,2): error C2065: cout: необъявленный идентификатор
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(14,32): error C3861: peek: идентификатор не найден
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(14,42): error C2065: endl: необъявленный идентификатор
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(15,2): error C3861: pop: идентификатор не найден
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(16,2): error C3861: pop: идентификатор не найден
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(17,2): error C3861: print: идентификатор не найден
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(18,2): error C2065: cout: необъявленный идентификатор
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(18,32): error C3861: peek: идентификатор не найден
+D:\distrib\VisualStudio\repos\DZ№15\DZ№15.cpp(18,42): error C2065: endl: необъявленный идентификатор
+  first.cpp
+  Создание кода...

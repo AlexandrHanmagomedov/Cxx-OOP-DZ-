@@ -1,0 +1,4 @@
+﻿  DZ№23.cpp
+D:\distrib\VisualStudio\repos\DZ№23\Header.h(494): warning C4715: Line::Start: значение возвращается не при всех путях выполнения
+D:\distrib\VisualStudio\repos\DZ№23\Header.h(535): warning C4715: Kvadratn::Start: значение возвращается не при всех путях выполнения
+  DZ№23.vcxproj -> D:\distrib\VisualStudio\repos\DZ№23\x64\Debug\DZ№23.exe
